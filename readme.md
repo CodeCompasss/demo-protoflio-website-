@@ -80,6 +80,6 @@ GitHub Pages is an easy way to host your portfolio for free! Here’s how to set
 
 ## License and Credits
 
-This project is forked from [Ade-mir](link). All credit for the design and base code goes to them. Feel free to customize it for personal use and showcase your work, but please give credit to the original creator if you share it publicly.
+This project is forked from [Ade-mir](link). All credit for the design and base code goes to them. Feel free to customize it for personal use and showcase your work, but please give credit to the original creator if you share it publicly .
 
 !
